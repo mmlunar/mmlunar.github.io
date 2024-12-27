@@ -5,8 +5,8 @@ title: Mohammad Mosiur Rahman Lunar | Home
 
 # Mohammad Mosiur Rahman Lunar
 
-[Email](mailto:mmlunar@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/mmlunar) | [Google Scholar](https://scholar.google.com/citations?user=o22jCgEAAAAJ)  
-Irvine, CA | (402) 419 8186
+[Email](mailto:mmlunar@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/mmlunar) | [Google Scholar](https://scholar.google.com/citations?user=o22jCgEAAAAJ) |
+Irvine, CA 
 
 ## About Me
 
