@@ -1,0 +1,96 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General page style */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 20px;
+}
+
+/* Container for both columns */
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Left column - links */
+.left-column {
+    width: 25%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.left-column h2 {
+    font-size: 1.4em;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.left-column ul {
+    list-style-type: none;
+}
+
+.left-column ul li {
+    margin-bottom: 10px;
+}
+
+.left-column ul li a {
+    text-decoration: none;
+    color: #0073e6;
+    font-size: 1.1em;
+}
+
+.left-column ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Right column - content */
+.right-column {
+    width: 75%;
+    padding: 20px;
+}
+
+.right-column h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.right-column h2 {
+    font-size: 1.6em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.right-column p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+.right-column ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.right-column ul li {
+    margin-bottom: 10px;
+}
+
+.right-column ul li a {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.right-column ul li a:hover {
+    text-decoration: underline;
+}
