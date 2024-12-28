@@ -94,3 +94,41 @@ body {
 .right-column ul li a:hover {
     text-decoration: underline;
 }
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+    /* Adjust container layout to stack columns */
+    .container {
+        flex-direction: column;
+    }
+
+    /* Left column full width on mobile */
+    .left-column {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    /* Right column full width on mobile */
+    .right-column {
+        width: 100%;
+    }
+
+    /* Reduce padding for better spacing on smaller screens */
+    body {
+        padding: 10px;
+    }
+
+    /* Adjust font sizes for mobile */
+    .left-column h2, .right-column h1, .right-column h2 {
+        font-size: 1.2em;
+    }
+
+    .right-column p, .right-column ul li a {
+        font-size: 1em;
+    }
+
+    /* Add margin to the right column content to create space from the left column */
+    .right-column {
+        margin-top: 20px;
+    }
+}
